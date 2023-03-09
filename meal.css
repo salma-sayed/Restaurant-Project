@@ -1,0 +1,29 @@
+body{
+   background-color: rgb(211, 162, 147);
+}
+.mal{
+    font-size: xx-large;
+}
+.qu{
+    font-size: xx-large;
+}
+.bt{
+    padding: 10px 10px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: xx-large;
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+    
+}
+.bt:hover{
+   
+    background-color: black;
+    color: red;
+}
+.mal{
+    color: rgb(14, 14, 15);
+}

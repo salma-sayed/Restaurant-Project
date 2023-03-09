@@ -1,0 +1,163 @@
+body{
+    background-image: url("71eojcO8ful.jpg" );
+}
+.box{
+    width: 1200px;
+    height: 350px;
+    background-color:  rgb(216, 175, 159);
+    margin-top: 45px;
+    margin-left: 150px;
+    
+
+}
+.overly{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 200vh;
+}
+h1{
+    color: azure;
+    text-align: center;
+    padding: 30px;
+}
+.co{
+    color: rgb(12, 12, 12);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 28px;
+    
+}
+.name{
+    position: relative;
+    left: 145px;
+    top:37px;
+    line-height: 40px;
+    border-radius: 6px;
+    width:920px;
+
+}
+.naame{
+    font-size: 25px;
+    padding: 30px;
+}
+.addr{
+    position: relative;
+    left: 145px;
+    top:47px;
+    line-height: 40px;
+    border-radius: 6px;
+    width:920px;
+
+}
+.addre{
+    font-size: 25px;
+    padding: 30px;
+}
+.pho{
+    position: relative;
+    left: 145px;
+    top:57px;
+    line-height: 40px;
+    border-radius: 6px;
+    width:920px;
+
+}
+.phon{
+    font-size:25px;
+    padding: 30px;
+
+}
+.box1{
+    
+        width: 1180px;
+        height: 100px;
+        background-color:  rgb(216, 175, 159);
+        margin-top: 45px;
+        margin-left: 150px;
+        
+    
+}
+.cl{
+    padding: 10px 10px;
+    border:none;
+    outline: none;
+    color: rgb(14, 14, 14);
+    cursor: pointer;
+    border-radius: 2px;
+    font-size: 20px;
+    display: block;
+    margin: 5 auto;
+    width: 900px;
+    
+}
+.box2{
+    
+    width: 1180px;
+    height: 100px;
+    background-color:  rgb(216, 175, 159);
+    margin-top: 45px;
+    margin-left: 150px;
+    
+
+}
+.de{
+padding: 10px 10px;
+border:none;
+outline: none;
+color: rgb(14, 14, 14);
+cursor: pointer;
+border-radius: 2px;
+font-size: 20px;
+display: block;
+margin: 5 auto;
+width: 900px;
+
+}
+.box3{
+    
+    width: 1180px;
+    height: 80px;
+    background-color:  rgb(216, 175, 159);
+    margin-top: 45px;
+    margin-left: 150px;
+    
+
+}
+.ti{
+padding: 10px 10px;
+border:none;
+outline: none;
+color: rgb(14, 14, 14);
+cursor: pointer;
+border-radius: 2px;
+font-size: 20px;
+display: block;
+margin: 5 auto;
+width: 900px;
+
+}
+.box4{
+    
+    width: 1180px;
+    height: 100px;
+    background-color:  rgb(216, 175, 159);
+    margin-top: 45px;
+    margin-left: 150px;
+    
+
+}
+h3{
+    padding: 5px;
+    font-size: 20px;
+}
+.btn{
+padding: 10px 10px;
+cursor: pointer;
+
+font-size: 30px;
+display: block;
+
+margin-left: 130px;
+margin-top: 10px;
+width: 900px;
+color: green;
+}
